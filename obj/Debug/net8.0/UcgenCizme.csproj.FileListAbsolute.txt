@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\bin\Debug\net8.0\UcgenCizme.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\bin\Debug\net8.0\UcgenCizme.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\bin\Debug\net8.0\UcgenCizme.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\bin\Debug\net8.0\UcgenCizme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\bin\Debug\net8.0\UcgenCizme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\UcgenCizme.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\UcgenCizme.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\UcgenCizme.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\UcgenCizme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\refint\UcgenCizme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\UcgenCizme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\UcgenCizme.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\UcgenCizme\obj\Debug\net8.0\ref\UcgenCizme.dll
